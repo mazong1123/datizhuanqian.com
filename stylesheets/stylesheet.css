@@ -51,7 +51,7 @@ body {
   font-size: 15px;
   line-height: 1.5;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Microsoft YaHei', Helvetica, Arial, serif;
   font-weight: 400;
   color: #666;
 }
@@ -101,7 +101,7 @@ header h2 {
 }
 
 #main-content {
-  width: 690px;
+  width: 677px;
   float: left;
 }
 
@@ -110,7 +110,7 @@ header h2 {
 }
 
 aside#sidebar {
-  width: 200px;
+  width: 213px;
   padding-left: 20px;
   min-height: 504px;
   float: right;
@@ -136,7 +136,7 @@ a.button {
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 a.button small {
   display: block;
@@ -144,7 +144,7 @@ a.button small {
 }
 header a.button {
   position: absolute;
-  right: 0;
+  right: 13px;
   top: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
@@ -252,7 +252,7 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
